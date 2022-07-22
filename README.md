@@ -1,3 +1,1 @@
-#My Project
-
-Repository baru dari pc loka
+REP DALAM KOMPUTER LOKASL
